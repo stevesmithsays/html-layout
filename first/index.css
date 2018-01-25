@@ -1,0 +1,19 @@
+html{
+    background-color: #a3a3a3;
+}
+.main-div{
+    background-color: #e0e0e0;
+    height: 500px;
+    width: 70%;
+    margin: 0 auto;
+}
+header{
+    background-color:#4c5154;
+    height: 120px;
+}
+footer{
+    background-color: #363738;
+    height: 120px;
+    width: 70%;
+    margin: 0 auto;
+}
